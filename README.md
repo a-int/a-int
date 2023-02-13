@@ -8,7 +8,7 @@ I am a C++ developer and an electronic engineer. I am currently completing my ba
 <br />
 #
 
-####  <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" /> Skills and Experience in Electronic Engineering:
+####  <img align="left" alt="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" /> Skills and Experience in Electronic Engineering:
 
 - AutoCAD, Inventor
 
