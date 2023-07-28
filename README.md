@@ -16,6 +16,8 @@ I am a C++ developer and an electronic engineer. I am currently completing my ba
 
 - Matlab, Mathcad 15
 
+- Altium Designer, P-CAD
+
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-int&show_icons=true&theme=chartreuse-dark)  
