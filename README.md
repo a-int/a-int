@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Alexey
-I am a C++ developer and an electronic engineer. I am currently completing my bachelor's degree in Russia in electronic engineering.
+I am a C++ developer and an electronic engineer. I am currently completing my bachelor's degree in Russia in electronic engineering department.
 
 ---
 ### 💻 Languages and Tools:
