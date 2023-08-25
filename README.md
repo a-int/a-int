@@ -10,6 +10,8 @@ I am a C++ developer and an electronic engineer. I am currently completing my ba
 
 ###  <img align="left" alt="C" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />Skills and Experience in Electronic Engineering:
 
+- STM32 (CMSIS), ESP32 (esp-idf 5.0), Atmel ATmega
+
 - AutoCAD, Inventor
 
 - OrCAD, NI Multisim
