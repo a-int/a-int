@@ -10,7 +10,7 @@ I am a C++ developer and an electronic engineer.
 
 ###  <img align="left" alt="C" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />Skills and Experience in Electronic Engineering:
 
-- nRF52, nRF53, STM32 (CMSIS, LL), ESP32 (esp-idf 4.4, 5.0), Atmel ATmega
+- nRF52/nRF53 (ncs), STM32 (CMSIS, LL), ESP32 (esp-idf 4.4, 5.0), Atmel ATmega
 
 - AutoCAD, Inventor
 
