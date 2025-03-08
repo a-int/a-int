@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Alexey
-I am a C++ developer and an electronic engineer. I am currently completing my bachelor's degree in Russia in electronic engineering department.
+I am a C++ developer and an electronic engineer.
 
 ---
 ### 💻 Languages and Tools:
@@ -10,7 +10,7 @@ I am a C++ developer and an electronic engineer. I am currently completing my ba
 
 ###  <img align="left" alt="C" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />Skills and Experience in Electronic Engineering:
 
-- STM32 (CMSIS), ESP32 (esp-idf 5.0), Atmel ATmega
+- nRF52, nRF53, STM32 (CMSIS, LL), ESP32 (esp-idf 4.4, 5.0), Atmel ATmega
 
 - AutoCAD, Inventor
 
